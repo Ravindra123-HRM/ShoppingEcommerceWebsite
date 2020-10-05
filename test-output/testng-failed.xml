@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.shopping.page.Test.CheckOutPaymentTest">
+        <methods>
+          <include name="Online_clickOn_Sortby"/>
+          <include name="TearDown"/>
+          <include name="Online_clickOn_clickOn_AddtoCart"/>
+          <include name="Online_clickOn_clickOn_proceedTocheckout1"/>
+          <include name="Online_clickOn_clickOn_AddtoCart1"/>
+          <include name="Online_clickOn_Quantity"/>
+          <include name="Online_clickOn_clickon_WomenTab"/>
+          <include name="Online_clickOn_clickOn_proceedTocheckout"/>
+          <include name="Online_clickOn_editAddress"/>
+          <include name="Online_clickon_Size"/>
+          <include name="Online_clickOn_Hoveron_Cart"/>
+          <include name="Online_clickOn_clickOn_Sortby"/>
+          <include name="Online_clickOn_clickOn_Sortby1"/>
+          <include name="Online_ClickOn_TermsandProceedToCheck"/>
+          <include name="setup"/>
+          <include name="ClickOn_MultipleDress"/>
+          <include name="Online_clickOn_ContinueShopping"/>
+          <include name="Online_clickOn_AddtoCart"/>
+          <include name="Online_clickOn_clickon_checkbox"/>
+          <include name="Online_clickOn_clickon_checkbox1"/>
+          <include name="Online_clickOn_clickon_WomenTab1"/>
+        </methods>
+      </class> <!-- com.shopping.page.Test.CheckOutPaymentTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

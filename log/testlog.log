@@ -1,0 +1,1351 @@
+2020-09-30 15:25:23,725 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 15:25:24,858 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 15:25:25,043 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 15:25:29,094 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 15:25:38,266 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-09-30 15:29:49,297 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 15:29:51,026 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 15:29:51,202 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 15:29:53,694 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 15:29:57,763 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-09-30 18:40:46,876 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 18:40:47,260 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 18:40:47,405 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 18:40:50,883 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 18:40:54,966 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-09-30 18:41:39,071 - org.eclipse.jetty.util.log.Log -INFO - clickon_Purchasepassed
+2020-09-30 18:41:39,144 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-09-30 18:41:39,579 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-09-30 18:41:58,928 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-09-30 18:42:01,661 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 18:42:02,936 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 18:42:03,110 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 18:42:07,337 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 18:42:07,340 - org.eclipse.jetty.util.log.Log -INFO - clickonSigninPagepassed
+2020-09-30 18:42:07,383 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-09-30 18:46:31,487 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 18:46:32,162 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 18:46:32,317 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 18:46:34,631 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 18:46:40,511 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-09-30 18:46:41,150 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-09-30 18:46:42,502 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50960}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e03305a5ed9ca1006454472aae8c3898
+2020-09-30 18:46:42,687 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-09-30 18:49:24,605 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 18:49:26,864 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 18:49:27,042 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 18:49:28,963 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 18:49:36,446 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-09-30 18:50:25,306 - org.eclipse.jetty.util.log.Log -INFO - clickon_Purchasepassed
+2020-09-30 18:50:25,485 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-09-30 18:50:26,197 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-09-30 18:50:42,683 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-09-30 18:50:44,569 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 18:50:46,202 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 18:50:46,424 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 18:50:49,828 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 18:50:49,831 - org.eclipse.jetty.util.log.Log -INFO - clickonSigninPagepassed
+2020-09-30 18:50:49,914 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-09-30 19:04:40,117 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-09-30 19:04:41,693 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-09-30 19:04:41,857 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-09-30 19:04:44,599 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-09-30 19:04:50,460 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-01 10:16:21,442 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-01 10:16:21,755 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-01 10:16:22,098 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 10:21:20,946 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 10:31:27,614 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 10:31:29,137 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 10:31:29,307 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 10:32:21,926 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 10:32:22,299 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 10:32:22,450 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 10:32:25,899 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 10:32:32,228 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-01 10:32:32,242 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchasepassed
+2020-10-01 10:32:33,046 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Sizepassed
+2020-10-01 10:32:49,469 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 10:33:59,441 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 10:34:00,186 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 10:34:00,392 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 10:34:03,831 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 10:34:03,841 - org.eclipse.jetty.util.log.Log -INFO - clickonSigninPagepassed
+2020-10-01 10:34:04,393 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 10:36:52,362 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 10:40:45,269 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-01 10:40:45,293 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-01 10:40:45,332 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 10:42:16,138 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 10:42:17,626 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 10:42:17,774 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 10:42:20,402 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 10:42:24,720 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-01 10:42:24,730 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchasepassed
+2020-10-01 10:42:24,789 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:25,278 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Sizepassed
+2020-10-01 10:42:25,282 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:25,627 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortbypassed
+2020-10-01 10:42:25,631 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:25,904 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCartpassed
+2020-10-01 10:42:25,909 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:30,180 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckoutpassed
+2020-10-01 10:42:30,185 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:46,804 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantitypassed
+2020-10-01 10:42:46,814 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:42:57,491 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddresspassed
+2020-10-01 10:42:57,497 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 10:43:04,461 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheckpassed
+2020-10-01 10:43:05,244 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 10:43:09,346 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-01 10:43:09,380 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 12:38:51,966 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 12:38:53,985 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 12:38:54,216 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 12:38:56,562 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 12:38:56,832 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 12:38:56,867 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 12:39:10,791 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='header_user_info']//a[contains(text(),'Sign out')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52981}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cbf7ebfc9937c8c7fbb5025552f00578
+*** Element info: {Using=xpath, value=//div[@class='header_user_info']//a[contains(text(),'Sign out')]}
+2020-10-01 12:39:12,368 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:04:22,938 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:04:27,863 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:04:28,123 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:04:32,390 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:04:32,594 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:04:46,194 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='header_user_info']//a[contains(text(),'Sign out')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53732}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1ea536b70237af21f9b3e065e4b47f34
+*** Element info: {Using=xpath, value=//div[@class='header_user_info']//a[contains(text(),'Sign out')]}
+2020-10-01 13:04:47,725 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:07:17,821 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:07:20,119 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:07:20,267 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:07:22,478 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:07:22,670 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:07:36,157 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='header_user_info']//a[contains(text(),'Sign out')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3244bfab8e186a36f340b8969a960cc1
+*** Element info: {Using=xpath, value=//div[@class='header_user_info']//a[contains(text(),'Sign out')]}
+2020-10-01 13:07:41,252 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:08:15,767 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:08:17,583 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:08:17,785 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:08:21,587 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:08:21,705 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:08:35,132 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='header_user_info']//a[contains(text(),'Sign out')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53917}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6c6081de840d09aa1a925e909cefb87d
+*** Element info: {Using=xpath, value=//div[@class='header_user_info']//a[contains(text(),'Sign out')]}
+2020-10-01 13:08:36,266 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:10:43,670 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:10:45,446 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:10:45,619 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:10:49,049 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:10:49,267 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:11:02,723 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='header_user_info']//a[contains(text(),'Sign out')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54024}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 85186a71d5c4af02a0187efcafbfd67a
+*** Element info: {Using=xpath, value=//div[@class='header_user_info']//a[contains(text(),'Sign out')]}
+2020-10-01 13:11:03,453 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:11:58,776 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:12:01,462 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:12:01,624 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:12:05,256 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:12:05,393 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:12:08,713 - org.eclipse.jetty.util.log.Log -INFO - clickonSigninPage Passed 
+2020-10-01 13:12:10,408 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 13:43:24,761 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:43:25,652 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:43:25,838 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:43:26,518 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:44:47,552 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:44:48,128 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:44:48,266 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:44:49,725 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:46:23,319 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:46:28,449 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 13:46:28,641 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 13:46:41,427 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 13:46:42,366 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 13:46:57,206 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: driver.version: RemoteWebDriver
+2020-10-01 13:46:57,503 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55221}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: af74c2ae554b9a7ba68db0cc3ef4f4af
+2020-10-01 13:47:00,091 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 13:47:55,802 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Sign in')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55339}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6764aea03778cc3b1498d556041cc291
+*** Element info: {Using=xpath, value=//*[contains(text(),'Sign in')]}
+2020-10-01 13:47:56,023 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.RuntimeException: Unexpected result for screenshot command: null
+2020-10-01 13:47:57,151 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 13:52:51,076 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[contains(text(),'Sign in')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: driver.version: RemoteWebDriver
+2020-10-01 13:52:51,945 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f680ea9b030c5519766096387c1b939a
+2020-10-01 13:52:55,252 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 13:53:25,019 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[contains(text(),'Sign in')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: driver.version: RemoteWebDriver
+2020-10-01 13:53:25,054 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6241023e28e6d43b094f0414596274e0
+2020-10-01 13:53:26,284 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 13:53:57,187 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 13:54:07,830 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 005790f4539ebd82bc5e6d21299dd52e
+*** Element info: {Using=id, value=email}
+2020-10-01 13:54:08,592 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,596 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickon_Size()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,601 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,604 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_Sortby()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,608 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,612 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_AddtoCart()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,617 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,623 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_proceedTocheckout()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,627 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,629 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_Quantity()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,633 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,639 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_editAddress()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:08,651 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 13:54:08,654 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_ClickOn_TermsandProceedToCheck()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 13:54:10,319 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 13:54:12,977 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-01 13:54:13,037 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 14:53:43,925 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 14:53:46,154 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 14:53:46,320 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 14:53:58,214 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 14:53:58,353 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 14:54:15,653 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: driver.version: RemoteWebDriver
+2020-10-01 14:54:16,251 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,255 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickon_Size()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,270 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,282 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_Sortby()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,287 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,291 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_AddtoCart()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,299 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,302 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_proceedTocheckout()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,306 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,309 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_Quantity()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,322 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,325 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_clickOn_editAddress()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:16,332 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-01 14:54:16,336 - org.eclipse.jetty.util.log.Log -INFO - Skipped because of ....java.lang.Throwable: Method PurchaseDress_Test.Online_ClickOn_TermsandProceedToCheck()[pri:0, instance:com.shopping.page.Test.PurchaseDress_Test@d0a57] depends on not successfully finished methods
+2020-10-01 14:54:17,712 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-01 14:54:24,642 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-01 14:54:24,695 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-01 16:57:33,352 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 16:57:33,813 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 16:57:34,042 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 16:57:38,299 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 16:57:38,426 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 16:59:33,801 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 16:59:34,534 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 16:59:34,684 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 16:59:39,264 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 16:59:39,412 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 17:01:23,924 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:01:24,106 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:01:24,264 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:01:26,643 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:01:26,750 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 17:02:41,088 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:02:41,451 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:02:41,643 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:02:44,159 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:02:44,336 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 17:04:15,331 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:04:17,652 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:04:17,868 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:04:21,322 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:04:21,482 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 17:13:21,707 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:13:22,147 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:13:22,328 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:13:25,306 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:13:25,512 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 17:51:28,500 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:51:29,854 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:51:30,088 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:53:39,199 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:57:44,708 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 17:57:46,667 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 17:57:47,230 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 17:57:52,189 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 17:57:52,421 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:01:16,650 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:01:17,908 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:01:18,112 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:01:21,719 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:01:21,919 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:04:20,097 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:04:21,092 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:04:21,251 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:04:24,041 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:04:24,287 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:11:30,310 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:11:30,793 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:11:30,980 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:11:33,661 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:11:33,790 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:13:56,842 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:13:57,199 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:13:57,459 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:14:02,389 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:14:02,606 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:15:52,380 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:15:52,855 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:15:53,031 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:16:00,835 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:16:00,998 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:17:35,752 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:17:36,144 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:17:36,311 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:17:41,656 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:17:41,800 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:30:20,738 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:30:20,941 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:30:21,108 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:30:25,227 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:30:25,336 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:53:25,713 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:53:26,245 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:53:26,448 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:53:29,036 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:53:29,215 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 18:54:51,308 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 18:54:52,839 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 18:54:53,077 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 18:54:56,515 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 18:54:56,641 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:07:18,804 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:07:19,082 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:07:19,237 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:07:21,743 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:07:22,012 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:07:27,210 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 19:14:59,181 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:14:59,540 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:14:59,731 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:15:03,139 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:15:03,316 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:23:43,290 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:23:43,817 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:23:43,967 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:23:47,242 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:23:47,381 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:27:03,394 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:27:04,914 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:27:05,082 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:27:11,462 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:27:11,565 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:29:45,629 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:29:45,950 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:29:46,111 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:29:51,788 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:29:52,071 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:35:05,602 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:35:10,521 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:35:10,666 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:35:17,376 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:35:18,901 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:41:37,227 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:41:37,556 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:41:37,858 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:41:42,138 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:41:42,290 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:41:48,664 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 19:43:38,286 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:43:40,611 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:43:40,791 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:43:44,096 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:43:44,428 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:43:50,257 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 19:50:48,966 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:50:49,621 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:50:49,752 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:50:56,253 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:50:56,401 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:51:01,817 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 19:53:57,590 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:53:57,874 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:53:58,022 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:54:01,736 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:54:01,941 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 19:58:43,189 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 19:58:43,706 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 19:58:43,883 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 19:58:46,266 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 19:58:46,513 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 20:03:00,487 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 20:03:03,289 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 20:03:03,437 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 20:03:07,352 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 20:03:07,469 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 20:05:42,545 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 20:05:42,897 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 20:05:43,115 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 20:05:48,588 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 20:05:49,122 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 20:10:26,419 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 20:10:26,846 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 20:10:27,036 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 20:10:30,449 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 20:10:30,664 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 20:10:35,329 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 20:13:50,356 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 20:13:53,272 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 20:13:53,421 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 20:13:56,871 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 20:13:56,951 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-01 20:14:01,635 - org.eclipse.jetty.util.log.Log -INFO - Mouse Hover image
+2020-10-01 20:16:43,805 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-01 20:16:46,499 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-01 20:16:46,692 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-01 20:16:50,361 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-01 20:16:50,450 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-02 11:58:05,933 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 11:58:06,276 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 11:58:06,535 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 11:58:11,848 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 11:58:12,060 - org.eclipse.jetty.util.log.Log -INFO - true
+2020-10-02 12:06:12,338 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 12:06:15,061 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 12:06:15,225 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 12:06:17,497 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 12:09:25,974 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 12:09:28,563 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 12:09:28,768 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 12:09:31,644 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 12:09:39,194 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-02 12:16:53,044 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 12:16:55,207 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 12:16:55,381 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 12:16:59,481 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 12:25:53,919 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 12:25:54,225 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 12:25:54,455 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 12:25:56,740 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 12:38:26,507 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 12:38:26,837 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 12:38:27,017 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 12:38:32,271 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:31:22,906 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 14:31:32,399 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 14:31:32,538 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 14:31:40,234 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:32:07,303 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 14:34:10,960 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 14:34:11,156 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 14:34:11,339 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 14:34:15,597 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:34:30,013 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 14:44:44,497 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 14:44:52,410 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 14:44:52,577 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 14:44:59,539 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:45:14,827 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 14:52:52,053 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 14:52:52,235 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 14:52:52,378 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 14:52:59,640 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:53:10,648 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 14:57:38,099 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 14:57:38,265 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 14:57:38,403 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 14:57:41,536 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 14:57:48,087 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 15:35:38,225 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 15:35:46,257 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 15:35:46,397 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 15:35:52,606 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 15:36:01,798 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 15:39:56,862 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 15:40:00,952 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 15:40:01,097 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 15:40:01,254 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 15:40:17,929 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 15:46:55,984 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 15:46:56,348 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 15:46:56,495 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 15:47:00,408 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 15:47:08,351 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 15:47:10,954 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:03:57,668 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:04:02,430 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:04:02,620 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:04:05,944 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:04:14,757 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:04:17,738 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:04:18,678 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 16:08:32,649 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:08:33,114 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:08:33,353 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:08:36,676 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:08:42,928 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:12:01,888 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:12:03,913 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:12:04,081 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:12:06,700 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:12:17,845 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:12:20,806 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:16:51,816 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:16:52,194 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:16:52,361 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:16:55,650 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:17:01,271 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:17:03,750 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:17:06,075 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:17:07,426 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 16:19:35,975 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:19:38,061 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:19:38,239 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:19:40,745 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:19:47,719 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:21:29,515 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:21:30,013 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:21:30,192 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:21:32,725 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:21:42,633 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:24:19,870 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:24:20,215 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:24:20,409 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:24:23,643 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:24:28,371 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 16:24:30,620 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:26:16,388 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:26:17,073 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:26:17,254 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:26:21,671 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:26:32,215 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:44:06,985 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:44:10,233 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:44:10,542 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:44:15,247 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:44:24,509 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:47:42,581 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:47:44,404 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:47:44,583 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:47:48,386 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:47:55,040 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:47:56,285 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:51:34,572 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:51:37,865 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:51:38,026 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:51:41,645 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:51:47,999 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:53:33,942 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:53:34,374 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:53:34,540 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:53:37,498 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:53:44,145 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:56:36,603 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:56:38,499 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:56:38,656 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:56:41,233 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:56:47,545 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:56:48,832 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:56:51,121 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:56:51,989 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 16:58:19,858 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:58:20,162 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:58:20,308 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:58:23,341 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:58:28,823 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:58:30,441 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:59:39,213 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 16:59:39,743 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 16:59:40,251 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 16:59:43,656 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 16:59:49,519 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 16:59:50,642 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 16:59:52,905 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 16:59:53,742 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 17:01:16,632 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:01:16,828 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:01:16,982 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:01:19,952 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:01:24,568 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 17:01:25,665 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 17:01:27,991 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:01:29,444 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 17:04:34,825 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:04:35,132 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:04:35,284 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:04:38,279 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:04:43,625 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 17:04:44,455 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 17:04:46,721 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:04:48,147 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 17:26:20,009 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:26:21,031 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:26:22,209 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:26:26,923 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:26:34,858 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 17:26:38,016 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:29:16,772 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:29:17,603 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:29:17,833 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:29:22,196 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:29:28,998 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 17:29:32,064 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:35:28,909 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:35:29,237 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:35:29,442 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:35:31,838 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:35:35,843 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 17:35:36,366 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:35:36,543 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:35:36,777 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:35:36,891 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:35:38,597 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-02 17:35:38,924 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:35:39,913 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-02 17:55:57,164 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-02 17:55:57,514 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-02 17:55:57,804 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-02 17:56:01,504 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-02 17:56:05,823 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 17:56:06,187 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:56:06,452 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:56:06,617 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:56:06,792 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-02 17:56:08,174 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-02 17:56:08,416 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:56:09,833 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-02 17:56:13,883 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-02 17:56:15,708 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:56:20,309 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-02 17:56:21,267 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-02 17:56:23,555 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-02 17:56:25,142 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-02 17:56:39,536 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-02 17:56:47,596 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-02 17:56:52,274 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 11:51:14,414 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 11:51:16,507 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 11:51:16,785 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 11:51:21,212 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 11:51:25,149 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 11:51:27,198 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 11:51:32,388 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 11:51:43,365 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:00:43,653 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:00:43,842 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:00:44,051 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:00:46,592 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:00:50,921 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:00:52,115 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:00:56,131 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:01:06,867 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:10:26,819 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:10:28,438 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:10:28,593 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:10:32,982 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:10:36,955 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:10:37,940 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:10:45,051 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:10:55,659 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:15:15,918 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:15:16,215 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:15:16,365 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:15:19,325 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:15:25,732 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:15:27,072 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:15:31,445 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:15:43,968 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:15:57,625 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 12:26:14,050 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:26:15,295 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:26:15,437 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:26:20,470 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:26:27,443 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:26:29,138 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:26:33,897 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:26:45,047 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:29:22,505 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:29:26,446 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:29:26,593 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:29:30,526 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:29:39,750 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:29:40,820 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:29:44,874 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:29:57,113 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:31:37,047 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:31:37,844 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:31:37,990 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:31:41,090 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:31:46,794 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:31:48,010 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:31:51,926 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:32:03,455 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:36:27,146 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:36:29,835 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:36:30,060 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:36:34,266 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:36:39,922 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:36:41,013 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:36:45,651 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:36:56,248 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:39:49,021 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:39:49,442 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:39:49,591 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:39:52,270 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:39:57,049 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:39:58,239 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:40:01,935 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:40:12,772 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:42:29,606 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:42:31,576 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:42:31,745 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:42:34,518 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:42:38,965 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:42:39,787 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:42:43,826 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:42:54,593 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:43:19,057 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 12:43:23,237 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:47:29,493 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:47:32,965 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:47:33,124 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:47:35,942 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:47:41,130 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:47:41,145 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 12:47:41,335 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:47:41,913 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 12:47:41,919 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:47:42,973 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 12:47:42,977 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:47:43,289 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:47:43,295 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 12:47:43,300 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:47:47,712 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:47:47,714 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-03 12:47:47,729 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:47:58,939 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:47:58,943 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 12:47:58,947 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:48:19,976 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 12:48:24,793 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:48:24,800 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-03 12:48:24,809 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:48:32,322 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-03 12:48:32,495 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 12:48:34,828 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-03 12:48:34,853 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-03 12:48:34,874 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....CheckoutPayment
+2020-10-03 12:48:58,304 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:00,807 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:49:02,698 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:49:02,876 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:49:05,567 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:49:11,072 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 12:49:11,074 - org.eclipse.jetty.util.log.Log -INFO - ClickOn_MultipleDress Passed 
+2020-10-03 12:49:11,077 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:11,217 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 12:49:11,377 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 12:49:11,497 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 12:49:11,612 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 12:49:12,510 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 12:49:12,511 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:12,642 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 12:49:12,644 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 12:49:12,646 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:12,928 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:49:12,930 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 12:49:12,932 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:13,856 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 12:49:13,857 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_ContinueShopping Passed 
+2020-10-03 12:49:13,860 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:17,217 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 12:49:17,219 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab Passed 
+2020-10-03 12:49:17,224 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:18,601 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox Passed 
+2020-10-03 12:49:18,603 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:18,843 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox1 Passed 
+2020-10-03 12:49:18,845 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:18,976 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby Passed 
+2020-10-03 12:49:18,978 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:19,046 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 12:49:19,048 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby1 Passed 
+2020-10-03 12:49:19,050 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:19,307 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:49:19,309 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart Passed 
+2020-10-03 12:49:19,313 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:54,566 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:49:54,570 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart1 Passed 
+2020-10-03 12:49:54,575 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:55,948 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout Passed 
+2020-10-03 12:49:55,951 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:49:56,043 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-03 12:49:56,044 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout1 Passed 
+2020-10-03 12:49:56,050 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:50:01,826 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-03 12:50:01,828 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab1 Passed 
+2020-10-03 12:50:01,835 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:50:05,643 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Hoveron_Cart Passed 
+2020-10-03 12:50:05,649 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:50:18,030 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:50:18,035 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 12:50:18,043 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:26,316 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 12:57:28,154 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 12:57:28,327 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 12:57:30,803 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 12:57:35,808 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 12:57:35,822 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 12:57:35,830 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:36,199 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 12:57:36,205 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:36,401 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 12:57:36,407 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:36,702 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 12:57:36,709 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 12:57:36,717 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:41,942 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:57:41,944 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-03 12:57:41,955 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:57:53,245 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 12:57:53,249 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 12:57:53,257 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 12:58:28,767 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[contains(@id,'address_delivery')]//span[contains(text(),'Update')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: driver.version: RemoteWebDriver
+2020-10-03 12:58:29,132 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54313}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 48b70b7bb788d3e58dd2e38b9366407a
+2020-10-03 12:58:30,339 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 13:11:03,383 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:11:07,075 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:11:07,236 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:11:10,976 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:11:15,381 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:11:15,546 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:11:15,690 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:11:15,786 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:11:15,884 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:11:16,945 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:11:17,211 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:11:18,348 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:11:24,047 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:11:25,823 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:11:26,085 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:17:23,108 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:17:25,560 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:17:25,836 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:17:29,691 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:19:57,380 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:19:57,778 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:19:57,952 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:20:01,228 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:20:05,927 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 13:20:07,577 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:20:12,030 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 13:20:23,570 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 13:25:04,626 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:25:09,575 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:25:09,718 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:25:12,558 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:25:18,567 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 13:25:19,863 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:25:26,571 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 13:25:37,788 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 13:25:50,883 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 13:25:56,411 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 13:26:55,221 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:26:56,723 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:26:56,882 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:26:59,171 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:27:03,535 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:27:03,701 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:27:03,837 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:27:03,955 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:27:04,058 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:27:05,072 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:27:05,320 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:27:06,491 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:27:09,622 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:27:11,413 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:27:11,708 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:35:40,351 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:35:42,191 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:35:42,372 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:35:44,677 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:35:49,911 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:35:50,077 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:35:50,235 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:35:50,348 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:35:50,455 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:35:51,917 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:35:52,174 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:35:53,044 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:35:56,043 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:35:58,194 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:35:58,459 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:37:51,663 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:38:25,898 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:38:26,164 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:38:26,420 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:38:29,181 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:38:34,391 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:38:34,574 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:38:34,727 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:38:34,825 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:38:34,923 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:38:35,949 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:38:36,206 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:38:38,010 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:38:41,432 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:38:43,549 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:38:43,825 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:43:24,650 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:43:24,981 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:43:25,126 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:43:27,440 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:43:32,324 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:43:32,638 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:43:32,782 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:43:32,904 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:43:33,006 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:43:34,193 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:43:34,472 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:43:35,703 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:43:39,031 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:43:40,934 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:43:41,197 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:46:42,881 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:49:15,265 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 13:49:20,781 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 13:49:21,120 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 13:49:24,523 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 13:49:29,181 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 13:49:30,555 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:49:30,734 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:49:30,822 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:49:30,917 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 13:49:32,261 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 13:49:32,601 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 13:49:33,919 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 13:49:36,931 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 13:49:38,960 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 13:49:39,180 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:00:39,920 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:00:40,449 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:00:40,945 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:00:43,628 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:00:48,400 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 15:00:48,919 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:00:49,076 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:00:49,171 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:00:49,278 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:00:50,387 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 15:00:50,638 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:00:51,976 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 15:00:56,719 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 15:00:58,550 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 15:00:58,867 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:04:51,409 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:04:53,108 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:04:53,301 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:04:56,095 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:05:00,232 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 15:05:00,567 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:05:00,708 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:05:00,803 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:05:00,947 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:05:02,331 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 15:05:02,636 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:05:03,825 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 15:05:08,549 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 15:05:10,310 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:05:11,194 - org.eclipse.jetty.util.log.Log -INFO - click on continue shopping Evening dress
+2020-10-03 15:05:15,934 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-03 15:05:16,804 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 15:05:19,094 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:05:20,824 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-03 15:05:36,109 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:05:58,173 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 15:06:02,410 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:06:46,220 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:06:47,988 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:06:48,133 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:06:50,881 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:06:55,431 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 15:06:55,441 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 15:06:55,592 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:06:56,201 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 15:06:56,207 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:06:56,757 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 15:06:56,761 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:06:57,033 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:06:57,035 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 15:06:57,042 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:07:01,207 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:07:01,209 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-03 15:07:01,218 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:07:12,407 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:07:12,410 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 15:07:12,418 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:07:27,552 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 15:07:33,107 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:07:33,109 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-03 15:07:33,115 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:07:40,127 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-03 15:07:41,267 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:07:42,117 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-03 15:07:42,146 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-03 15:07:42,165 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....CheckoutPayment
+2020-10-03 15:08:01,211 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:03,197 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:08:04,645 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:08:04,819 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:08:07,382 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:08:12,132 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 15:08:12,134 - org.eclipse.jetty.util.log.Log -INFO - ClickOn_MultipleDress Passed 
+2020-10-03 15:08:12,136 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:12,389 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:08:12,539 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:08:12,718 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:08:12,890 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 15:08:13,905 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 15:08:13,907 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:14,267 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 15:08:14,270 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 15:08:14,273 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:14,547 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:08:14,549 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 15:08:14,550 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:16,003 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 15:08:16,006 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_ContinueShopping Passed 
+2020-10-03 15:08:16,009 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:19,122 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-03 15:08:19,123 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab Passed 
+2020-10-03 15:08:19,125 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:20,527 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox Passed 
+2020-10-03 15:08:20,529 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:20,667 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby Passed 
+2020-10-03 15:08:20,671 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:20,894 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:08:20,897 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart Passed 
+2020-10-03 15:08:20,900 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:21,787 - org.eclipse.jetty.util.log.Log -INFO - click on continue shopping Evening dress
+2020-10-03 15:08:21,789 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout Passed 
+2020-10-03 15:08:21,795 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:26,119 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-03 15:08:26,121 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab1 Passed 
+2020-10-03 15:08:26,124 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:26,778 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox1 Passed 
+2020-10-03 15:08:26,780 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:26,925 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-03 15:08:26,927 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby1 Passed 
+2020-10-03 15:08:26,929 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:29,186 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:08:29,187 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart1 Passed 
+2020-10-03 15:08:29,190 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:30,428 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-03 15:08:30,430 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout1 Passed 
+2020-10-03 15:08:30,435 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:34,400 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Hoveron_Cart Passed 
+2020-10-03 15:08:34,405 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:45,823 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:08:45,827 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 15:08:45,830 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:08:59,038 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 15:09:03,139 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:09:03,142 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-03 15:09:03,144 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:09:11,483 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-03 15:09:12,744 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....CheckoutPayment
+2020-10-03 15:10:20,935 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:10:20,988 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:10:21,101 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:16:04,418 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:16:04,443 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:16:04,569 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:18:15,088 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:18:15,117 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:18:15,176 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:18:38,496 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:18:38,522 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....java.lang.NullPointerException
+2020-10-03 15:18:38,575 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:19:53,324 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:19:54,708 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:19:54,871 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:19:57,279 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:20:01,698 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 15:20:01,709 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 15:20:01,720 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:20:02,350 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 15:20:02,356 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:20:02,933 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 15:20:02,938 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:20:24,082 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:20:24,085 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 15:20:24,099 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:20:25,626 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 76a433fd97262e6a18cc98d8bdf73c5a
+*** Element info: {Using=xpath, value=//div[@class='clearfix']//following::div//span[contains(text(),'Proceed to checkout')]}
+2020-10-03 15:20:25,761 - org.eclipse.jetty.util.log.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RAVINDRAPC', ip: '192.168.225.66', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 76a433fd97262e6a18cc98d8bdf73c5a
+2020-10-03 15:20:27,257 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:20:58,389 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:20:58,587 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:20:58,746 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:21:01,281 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:21:06,283 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 15:21:06,294 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 15:21:06,306 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:21:06,696 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 15:21:06,700 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:21:06,865 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 15:21:06,869 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:21:07,117 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:21:07,120 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 15:21:07,126 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:21:12,039 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:21:12,042 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-03 15:21:12,054 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:58:32,636 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 15:58:34,914 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 15:58:36,038 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 15:58:41,107 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 15:58:47,815 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-03 15:58:47,840 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-03 15:58:48,100 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:58:49,093 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 15:58:49,098 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:58:49,921 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 15:58:49,926 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:58:50,314 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 15:58:50,324 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 15:58:50,337 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:58:57,634 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:58:57,637 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-03 15:58:57,648 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:59:09,164 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:59:09,169 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-03 15:59:09,177 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:59:41,962 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-03 15:59:46,377 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-03 15:59:46,380 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-03 15:59:46,386 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 15:59:52,655 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-03 15:59:54,250 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-03 15:59:55,126 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-03 15:59:55,134 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-03 15:59:55,154 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....CheckoutPayment
+2020-10-03 16:00:17,549 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 16:00:19,447 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-03 16:00:21,193 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-03 16:00:21,392 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-03 16:00:23,980 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-03 16:00:28,820 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-03 16:00:28,822 - org.eclipse.jetty.util.log.Log -INFO - ClickOn_MultipleDress Passed 
+2020-10-03 16:00:28,827 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 16:00:29,101 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 16:00:29,270 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 16:00:29,394 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 16:00:29,519 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-03 16:00:30,582 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-03 16:00:30,585 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 16:00:30,884 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-03 16:00:30,889 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-03 16:00:30,894 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 16:00:31,191 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-03 16:00:31,193 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-03 16:00:31,194 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-03 16:00:32,206 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-03 16:00:32,217 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_ContinueShopping Passed 
+2020-10-03 16:00:32,227 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:10:54,402 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-05 10:10:56,523 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-05 10:10:56,727 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-05 10:10:59,547 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-05 10:11:03,495 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-05 10:11:03,509 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Purchase Passed 
+2020-10-05 10:11:04,315 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:11:06,128 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-05 10:11:06,132 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:11:07,217 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-05 10:11:07,225 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:11:07,521 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-05 10:11:07,523 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-05 10:11:07,535 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:11:12,259 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:11:12,260 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_proceedTocheckout Passed 
+2020-10-05 10:11:12,265 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:11:24,767 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:11:24,770 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-05 10:11:24,776 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:12:01,538 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-05 10:12:05,647 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:12:05,651 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-05 10:12:05,659 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:12:13,105 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-05 10:12:20,925 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....PurchaseDress
+2020-10-05 10:12:25,325 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....Sign_In
+2020-10-05 10:12:25,339 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....Sign_In
+2020-10-05 10:12:25,359 - org.eclipse.jetty.util.log.Log -INFO - ................On start  Testcases..... ....CheckoutPayment
+2020-10-05 10:12:58,117 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:00,039 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-05 10:13:01,593 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-05 10:13:01,733 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-05 10:13:04,200 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-05 10:13:07,642 - org.eclipse.jetty.util.log.Log -INFO - click on casualDress button
+2020-10-05 10:13:07,643 - org.eclipse.jetty.util.log.Log -INFO - ClickOn_MultipleDress Passed 
+2020-10-05 10:13:07,645 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:07,798 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-05 10:13:07,933 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-05 10:13:08,044 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-05 10:13:08,190 - org.eclipse.jetty.util.log.Log -INFO - click on check box
+2020-10-05 10:13:09,363 - org.eclipse.jetty.util.log.Log -INFO - Online_clickon_Size Passed 
+2020-10-05 10:13:09,365 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:09,510 - org.eclipse.jetty.util.log.Log -INFO - Price drop down selected
+2020-10-05 10:13:09,512 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Sortby Passed 
+2020-10-05 10:13:09,513 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:09,786 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-05 10:13:09,788 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_AddtoCart Passed 
+2020-10-05 10:13:09,790 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:10,936 - org.eclipse.jetty.util.log.Log -INFO - click on continue button
+2020-10-05 10:13:10,938 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_ContinueShopping Passed 
+2020-10-05 10:13:10,945 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:14,075 - org.eclipse.jetty.util.log.Log -INFO - click on EveningDress button
+2020-10-05 10:13:14,077 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab Passed 
+2020-10-05 10:13:14,080 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:16,343 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox Passed 
+2020-10-05 10:13:16,345 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:16,521 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby Passed 
+2020-10-05 10:13:16,524 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:16,760 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-05 10:13:16,768 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart Passed 
+2020-10-05 10:13:16,770 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:18,331 - org.eclipse.jetty.util.log.Log -INFO - click on continue shopping Evening dress
+2020-10-05 10:13:18,333 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout Passed 
+2020-10-05 10:13:18,339 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:21,680 - org.eclipse.jetty.util.log.Log -INFO - click on Summerer Dress button
+2020-10-05 10:13:21,682 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_WomenTab1 Passed 
+2020-10-05 10:13:21,685 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:22,361 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickon_checkbox1 Passed 
+2020-10-05 10:13:22,366 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:22,516 - org.eclipse.jetty.util.log.Log -INFO - Click on price drop down
+2020-10-05 10:13:22,518 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_Sortby1 Passed 
+2020-10-05 10:13:22,520 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:24,773 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-05 10:13:24,777 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_AddtoCart1 Passed 
+2020-10-05 10:13:24,780 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:25,653 - org.eclipse.jetty.util.log.Log -INFO - click on Continue to shopping
+2020-10-05 10:13:25,654 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_clickOn_proceedTocheckout1 Passed 
+2020-10-05 10:13:25,660 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:29,398 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Hoveron_Cart Passed 
+2020-10-05 10:13:29,401 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:39,686 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:13:39,690 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_Quantity Passed 
+2020-10-05 10:13:39,693 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:13:52,110 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-05 10:13:56,247 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:13:56,249 - org.eclipse.jetty.util.log.Log -INFO - Online_clickOn_editAddress Passed 
+2020-10-05 10:13:56,251 - org.eclipse.jetty.util.log.Log -INFO - 
+2020-10-05 10:14:03,643 - org.eclipse.jetty.util.log.Log -INFO - Online_ClickOn_TermsandProceedToCheck Passed 
+2020-10-05 10:14:05,027 - org.eclipse.jetty.util.log.Log -INFO - ................On Finish  Testcases..... ....CheckoutPayment
+2020-10-05 10:17:08,639 - org.eclipse.jetty.util.log.Log -INFO - Click on sign button
+2020-10-05 10:17:10,124 - org.eclipse.jetty.util.log.Log -INFO - Enter Username
+2020-10-05 10:17:10,291 - org.eclipse.jetty.util.log.Log -INFO - Enter Password
+2020-10-05 10:17:13,442 - org.eclipse.jetty.util.log.Log -INFO - click on sign button
+2020-10-05 10:17:18,656 - org.eclipse.jetty.util.log.Log -INFO - click on tshirt button
+2020-10-05 10:17:20,080 - org.eclipse.jetty.util.log.Log -INFO - click on Add to cart
+2020-10-05 10:17:24,606 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:17:35,543 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout
+2020-10-05 10:17:53,492 - org.eclipse.jetty.util.log.Log -INFO - click on save button
+2020-10-05 10:17:55,352 - org.eclipse.jetty.util.log.Log -INFO - click on Procedd to checkout

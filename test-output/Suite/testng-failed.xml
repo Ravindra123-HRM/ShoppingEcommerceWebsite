@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.shopping.page.Test.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="PurchaseDress(failed)">
+    <groups>
+      <run>
+        <exclude name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.shopping.page.Test.PurchaseDress_Test">
+        <methods>
+          <include name="Online_clickOn_proceedTocheckout"/>
+          <include name="Online_ClickOn_TermsandProceedToCheck"/>
+          <include name="SetInitiatization"/>
+          <include name="Online_clickon_Purchase"/>
+          <include name="Online_clickOn_AddtoCart"/>
+          <include name="Online_clickOn_Quantity"/>
+          <include name="Online_clickon_Size"/>
+          <include name="Online_clickOn_editAddress"/>
+          <include name="Online_clickOn_Sortby"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- com.shopping.page.Test.PurchaseDress_Test -->
+    </classes>
+  </test> <!-- PurchaseDress(failed) -->
+</suite> <!-- Failed suite [Suite] -->

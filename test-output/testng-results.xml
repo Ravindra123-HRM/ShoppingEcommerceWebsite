@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76605" started-at="2020-10-05T10:16:46 IST" finished-at="2020-10-05T10:18:02 IST">
+    <groups>
+      <group name="Regression">
+        <method signature="Tshirts_Test.Online_clickon_Purchase()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickon_Purchase" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickon_Size()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickon_Size" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickOn_Sortby()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_Sortby" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickOn_AddtoCart()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_AddtoCart" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickOn_proceedTocheckout()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_proceedTocheckout" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickOn_Quantity()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_Quantity" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_clickOn_editAddress()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_editAddress" class="com.shopping.page.Test.Tshirts_Test"/>
+        <method signature="Tshirts_Test.Online_ClickOn_TermsandProceedToCheck()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_ClickOn_TermsandProceedToCheck" class="com.shopping.page.Test.Tshirts_Test"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="76605" started-at="2020-10-05T10:16:46 IST" finished-at="2020-10-05T10:18:02 IST">
+      <class name="com.shopping.page.Test.Tshirts_Test">
+        <test-method status="PASS" signature="SetInitiatization()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="SetInitiatization" is-config="true" duration-ms="18324" started-at="2020-10-05T10:16:46 IST" finished-at="2020-10-05T10:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetInitiatization -->
+        <test-method status="PASS" signature="Online_clickon_Purchase()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickon_Purchase" duration-ms="14197" started-at="2020-10-05T10:17:04 IST" finished-at="2020-10-05T10:17:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickon_Purchase -->
+        <test-method status="PASS" signature="Online_clickon_Size()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickon_Size" duration-ms="639" started-at="2020-10-05T10:17:18 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickon_Purchase" finished-at="2020-10-05T10:17:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickon_Size -->
+        <test-method status="PASS" signature="Online_clickOn_Sortby()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_Sortby" duration-ms="452" started-at="2020-10-05T10:17:19 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickon_Size" finished-at="2020-10-05T10:17:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickOn_Sortby -->
+        <test-method status="PASS" signature="Online_clickOn_AddtoCart()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_AddtoCart" duration-ms="280" started-at="2020-10-05T10:17:19 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickOn_Sortby" finished-at="2020-10-05T10:17:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickOn_AddtoCart -->
+        <test-method status="PASS" signature="Online_clickOn_proceedTocheckout()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_proceedTocheckout" duration-ms="4523" started-at="2020-10-05T10:17:20 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickOn_AddtoCart" finished-at="2020-10-05T10:17:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickOn_proceedTocheckout -->
+        <test-method status="PASS" signature="Online_clickOn_Quantity()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_Quantity" duration-ms="10931" started-at="2020-10-05T10:17:24 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickOn_proceedTocheckout" finished-at="2020-10-05T10:17:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickOn_Quantity -->
+        <test-method status="PASS" signature="Online_clickOn_editAddress()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_clickOn_editAddress" duration-ms="19804" started-at="2020-10-05T10:17:35 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickOn_Quantity" finished-at="2020-10-05T10:17:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_clickOn_editAddress -->
+        <test-method status="PASS" signature="Online_ClickOn_TermsandProceedToCheck()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Online_ClickOn_TermsandProceedToCheck" duration-ms="6468" started-at="2020-10-05T10:17:55 IST" depends-on-methods="com.shopping.page.Test.Tshirts_Test.Online_clickOn_editAddress" finished-at="2020-10-05T10:18:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Online_ClickOn_TermsandProceedToCheck -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.shopping.page.Test.Tshirts_Test@464a14]" name="Teardown" is-config="true" duration-ms="868" started-at="2020-10-05T10:18:01 IST" finished-at="2020-10-05T10:18:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.shopping.page.Test.Tshirts_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
